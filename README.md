@@ -15,8 +15,7 @@ You will find multiple basic STM32CubeIDE projects using the NUCLEO-F401RE board
 You will find in each project folder the description of the project and the main points of the program.
 
 
-
-!\[STM32 Board](https://github.com/medelkadiri/stm32-F401re-basic-concepts/blob/main/Images/stm32f401re\_board.png?raw=true)
+<img width="211" height="239" alt="Image" src="https://github.com/user-attachments/assets/8526d471-a616-4417-aa55-92ddf41e892b" />
 
 
 
