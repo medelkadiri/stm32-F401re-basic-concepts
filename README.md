@@ -16,7 +16,7 @@ You will find in each project folder the description of the project and the main
 
 
 
-!\[STM32 Board](Images/stm32f401re\_board.png)
+!\[STM32 Board](https://github.com/medelkadiri/stm32-F401re-basic-concepts/blob/main/Images/stm32f401re\_board.png?raw=true)
 
 
 
