@@ -1,0 +1,49 @@
+# STM32CubeIDE project files to keep:
+# (Do NOT ignore these, they are essential)
+!.mxproject
+!.project
+!.cproject
+!.launch
+
+# Eclipse/STM32CubeIDE settings (safe to ignore)
+.settings/
+.metadata/
+STM32CubeIDE.workspace/
+
+# Build outputs
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+
+# Intermediate files
+*.d
+*.map
+*.exp
+
+# Libraries
+*.a
+*.lib
+*.la
+*.lo
+
+# Shared objects
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
